@@ -47,7 +47,7 @@ bleibt er oft übrig x-D
 
 ![Fertig](./img/IMG_6069.jpg)
 
-# Comments
+# Kommentare
 
 * Extrem einfach in der Zubereitung
 * Mengen können einfach variiert werden

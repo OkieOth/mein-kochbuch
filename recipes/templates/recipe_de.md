@@ -13,4 +13,4 @@ Ein paar Worte zur Einführung
 2. Schritt zwei
 3. ....
 
-# Comments
+# Kommentare
