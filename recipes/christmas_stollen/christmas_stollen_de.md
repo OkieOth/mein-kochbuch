@@ -57,6 +57,11 @@ in der Regel zwei Stollen zu selben Zeit.
 
 ... Das Ganze jetzt bis Weihnachten liegen lassen, auch wenn's schwer fällt :D
 
+![before it gets backed](./img/formed.JPG)
+![backed](./img/backed.JPG)
+![ready to rest](./img/ready_to_rest.JPG)
+
+
 # Kommentare
 Wenn der Teig zu feucht ist, dann neigt er beim Backen zum Zerlaufen. Aus diesem Grund "klemme"
 ich entweder den rohen Teig irgendwie ein, backe in einer Form (niemand mag das zu Hause) oder

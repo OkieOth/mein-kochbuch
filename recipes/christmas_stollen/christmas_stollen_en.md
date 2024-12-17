@@ -54,6 +54,9 @@ The following recipe includes the ingredients for one stollen, but when I bake, 
 
 ... Now, let it sit until Christmas, even if it’s hard to resist! :D  
 
+![before it gets backed](./img/formed.JPG)
+![backed](./img/backed.JPG)
+![ready to rest](./img/ready_to_rest.JPG)
 
 # Comments  
 
