@@ -42,6 +42,14 @@ Einer der überraschensten Kuchen die ich je gegessen habe ... und das Beste er 
 12. Den abgekühlten Kuchen mit dem Belag bestreichen und die gerösteten Nüsse drauf verteilen
 13. Fertig :)
 
+![the prepared carrots](./img/IMG_carrots.jpg)
+![the mixed dough](./img/IMG_dough.jpg)
+![baked 1](./img/IMG_baked_cake.jpg)
+![baked 2](./img/IMG_baked_cake_2.jpg)
+![decorated](./img/IMG_decorated_cake.jpg)
+![cut cake](./img/IMG_cut_cake.jpg)
+
+
 # Kommentare
 
 Ich habe den Kuchen auch schon mit 280 g Möhren gebacken. Grundsätzlich interessiert mich wie weit ich
